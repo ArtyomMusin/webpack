@@ -1,1 +1,0 @@
-(()=>{"use strict";var o={346:(o,e)=>{Object.defineProperty(e,"__esModule",{value:!0}),e.calc=void 0,e.calc=function(o,e){return o+e},console.log("test")}},e={};function r(t){var c=e[t];if(void 0!==c)return c.exports;var l=e[t]={exports:{}};return o[t](l,l.exports,r),l.exports}(()=>{const o=r(346);console.log("hello world"),console.log((0,o.calc)(5,5))})()})();
